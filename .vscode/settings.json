@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/chloerenfroe/Downloads/libraries/commons-lang3-3.12.0.jar",
+        "/Users/chloerenfroe/Downloads/libraries/json-simple-1.1.1.jar",
+        "/Users/chloerenfroe/Downloads/libraries/opencsv-5.7.0.jar"
+    ]
+}
